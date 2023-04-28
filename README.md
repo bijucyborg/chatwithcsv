@@ -19,8 +19,6 @@ The folowing python libraries are used
 
 ## Installation
 
-Include instructions on how to install your project. You can include the following:
-
 - Prerequisites
 1. Clone this repo
 2. Create the python virtual environment inside the cloned directory
