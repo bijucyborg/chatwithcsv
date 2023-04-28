@@ -28,7 +28,7 @@ if 'messages' not in st.session_state:
     ]
 
 # Ask user to enter OpenAI API key
-openai_api_key = st.text_input("Enter your OpenAI API Key", type='password')
+openai_api_key = st.text_input("Enter your OpenAI API Key", type='password',help="https://help.openai.com/en/articles/4936850-where-do-i-find-my-secret-api-key")
 
 # Create a button for the user to submit their API key
 if st.button('Submit'):
