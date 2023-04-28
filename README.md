@@ -1,4 +1,4 @@
-# Project Name
+# Chat with Git
 
 Chat with Git is a prototype application written to demonstrate the power of embeddings and vector databases.
 The folowing python libraries are used
