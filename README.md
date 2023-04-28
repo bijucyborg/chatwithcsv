@@ -8,7 +8,7 @@ The folowing python libraries are used
 - Streamlit (Frontend UI for the chatbot)
 
 
-![alt text](assets/code_chat_screenshot.png "Code GPT Screenshot")
+![alt text](blob/main/assets/code_chat_screenshot.png "Chat de GPT Screenshot")
 
 
 ## Table of Contents
