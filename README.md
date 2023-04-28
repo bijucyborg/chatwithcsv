@@ -8,7 +8,7 @@ The folowing python libraries are used
 - Streamlit (Frontend UI for the chatbot)
 
 
-![alt text](blob/main/assets/code_chat_screenshot.png "Chat de GPT Screenshot")
+![alt text](assets/chatwithcsv.png "Chat de GPT Screenshot")
 
 
 ## Table of Contents
@@ -32,14 +32,14 @@ pipenv shell
 
 ```console
 pip install -r requirements.txt
-
+```
 
 - How to run the project
 ```console
 cd chatwithcsv
 pipenv shell
 streamlit run app.py
-
+```
 
 ## License
 
